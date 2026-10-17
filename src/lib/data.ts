@@ -21,7 +21,7 @@ export const chats: Chat[] = [
     id: 1,
     name: "Rahul Sharma",
     avatar: "https://i.pravatar.cc/150?img=12",
-    lastMessage: "See you tomorrow! 👋",
+    lastMessage: "See you tomorrow! ",
     time: "10:30 AM",
     unread: 2,
     online: true,
